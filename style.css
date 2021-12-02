@@ -229,3 +229,9 @@ nav{
 .side-video.list img{
     width: 100%;
 }
+.side-video.list .small-thumbnail{
+    flex-basis: 49%;
+}
+.side-video.list .vid-info{
+    flex-basis: 49%;
+}
