@@ -224,10 +224,10 @@ nav{
 .side-video.list{
     display: flex;
     justify-content: space-between;
-    margin-bottom: 6px;
+    margin-bottom: 8px;
 }
 .side-video.list img{
-    width: 90%;
+    width: 100%;
 }
 .side-video.list .small-thumbnail{
     flex-basis: 49%;
